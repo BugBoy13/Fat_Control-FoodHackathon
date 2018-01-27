@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "777829895523",
+    "firebase_url": "https://foodhackathon2.firebaseio.com",
+    "project_id": "foodhackathon2",
+    "storage_bucket": "foodhackathon2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777829895523:android:dac75947c0bfdf43",
+        "android_client_info": {
+          "package_name": "com.vardaan.foodhackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777829895523-ptu45u9a25h5npk6ug01i1s6esml1g4o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vardaan.foodhackathon",
+            "certificate_hash": "944546bb47d83a6861fd3a74749e93ffe435979e"
+          }
+        },
+        {
+          "client_id": "777829895523-oea1b05ucaqc4rdi2vdfr70ehr0d6u7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCH3-adNA-ii6BqrK908lmHseRYSpQGQc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777829895523-oea1b05ucaqc4rdi2vdfr70ehr0d6u7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
